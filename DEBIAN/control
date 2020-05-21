@@ -1,0 +1,10 @@
+Maintainer: PianoCat <kotone.olin@gmail.com>
+Package: plymouth-theme-paper-town
+Depends: plymouth , plymouth-label , plymouth-x11 
+Section: main
+Version: 1.0.0
+Essential: yes
+Architecture: all
+Description: plymouth
+Homepage: https://nsk-1010.github.io/paper-town/
+Priority: required
